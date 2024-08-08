@@ -1,10 +1,9 @@
 # Configurations
-title: SeungMin Blog
-longtitle: SeungMin Blog
+title: Blog
+longtitle: SeungMin
 author: SeungMin
 email: 0283esm@naver.com
-description: >
-  SeungMin's first Blog
+description: 개발자 호꼼의 블로그입니다!
 
 version: 1.0
 gitbook_version: 3.2.3
@@ -26,7 +25,7 @@ toc:
   h_max: 3
 
 # customize the link favicon in header, will be {{site.baseurl}}/{{site.favicon_path}}
-favicon_path: /assets/gitbook/images/favicon.ico
+favicon_path: assets/gitbook/images/hokkom.ico
 
 # markdown render engine.
 markdown: kramdown
@@ -54,6 +53,9 @@ exclude:
   - _drafts
 
 collections:
+  books:
+    output: true
+    permalink: /:collection/:path/
   pages:
     output: true
     permalink: /:collection/:path/
@@ -62,6 +64,7 @@ collections:
     permalink: /:collection/:path/
 
 ordered_collections:
+  - books
   - posts
   - pages
   - others
@@ -76,3 +79,5 @@ plugins:
   - jekyll-feed
   - jekyll-readme-index
   - jemoji
+
+github_username: esm712

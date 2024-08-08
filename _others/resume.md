@@ -1,8 +1,8 @@
 ---
-title: About others
-author: Tao He
-date: 2022-02-04
-category: Jekyll
+title: About me
+author: Seungmin
+date: 2024-08-08
+category: resume
 layout: post
 ---
 
