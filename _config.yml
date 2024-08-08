@@ -53,10 +53,10 @@ exclude:
   - _drafts
 
 collections:
-  books:
-    output: true
-    permalink: /:collection/:path/
   pages:
+    output: false
+    permalink: /:collection/:path/
+  books:
     output: true
     permalink: /:collection/:path/
   others:
@@ -64,9 +64,8 @@ collections:
     permalink: /:collection/:path/
 
 ordered_collections:
-  - books
-  - posts
   - pages
+  - books
   - others
 
 page_width: 800px
