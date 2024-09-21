@@ -20,23 +20,45 @@ layout: post
 
 ## About Me
 
-## Skills
+**MSA**에 대한 연구 경험과 Java & Spring 기반의 프로젝트에서 **2번**의 **수상**, 공모전에서 **1번**의 **수상** 경험을 가진 신입 백앤드 개발자입니다.
 
-## EXPERIENCE
+## Experience
 
 2023.01.04 ~ 2023.12.29 삼성 청년 SW 아카데미 9기  
 2022.01.03 ~ 2022.12.30 “딥러닝을 활용하여 레거시 모노리딕 웹 앱을 마이크로 서비스로 재공학” 연구
+
+## Skills
+
+#### Backend
+
+- Java, Groovy, Spring Boot, Spring MVC, Spring Batch, Spring Data JPA
+- JPA, Querydsl, Hibernate
+- Gradle, Maven
+- IntelliJ, Visual Studio Code
+
+#### DevOps
+
+- MySQL, MariaDB, PostgreSQL
+- Jekins, GithubAction
+- AWS EC2, S3
+- Nginx, Tomcat
+- Docker
+- Github, Gitlab
+
+#### Frontend
+
+- Vue.js
+- Vanilla JS
 
 ## Awards
 
 2023.11.29 관광데이터 공모전 장려상 (한국관광공사 / 카카오)  
 2023.11.24 자율프로젝트 우수상 (삼성전자주식회사)  
-2023.08.18 공통프로젝트 우수상 (삼성전자주식회사)  
-2021.10.09 교내 ICPC 동상 (가톨릭대학교)
+2023.08.18 공통프로젝트 우수상 (삼성전자주식회사)
 
 ## Certificates
 
-2023.06.21 SQLD(SQLD-053009103)
+2024.06.21 SQLD(SQLD-053009103)
 
 ## Language
 
