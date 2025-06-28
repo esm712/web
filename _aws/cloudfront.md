@@ -1,0 +1,1 @@
+https://about.netflix.com/ko/news/sklitigation
